@@ -40,19 +40,18 @@ I always like to write my code in modular ways so that help other developers to 
        
 </p>
  
-
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akib-Ali=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akib-Ali&show_icons=true&locale=en&theme=highcontrast" alt="Akib-Ali" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Ali=highcontrast" alt="shashifw11" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Ali&&theme=highcontrast" alt="Akib-Ali" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
-<img alt="Akib Ali' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akib-Ali&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Akib-Ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akib-Ali&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
 <br/>
