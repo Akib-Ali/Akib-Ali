@@ -44,9 +44,9 @@ I always like to write my code in modular ways so that help other developers to 
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashifw11&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akib-Ali=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashifw11&&theme=highcontrast" alt="shashifw11" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Ali=highcontrast" alt="shashifw11" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
