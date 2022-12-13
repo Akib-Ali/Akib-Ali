@@ -4,7 +4,7 @@
 <h3 >I'm a passionate Full Stack Web Developer from India.</h3>
 <p>Full-Stack Developer and can efficiently code websites and applications using modern JavaScript frameworks and libraries like React, Redux, and tools like Git, and more in Front-end and Node.js, Express.js, MongoDB, in the Backend.
 
-I always like to write my code in modular ways so that help other developers to understand it easily. Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. It allows me to stay ahead of the curve and deliver exceptional work. I am always passionate about my work so it helps me to learn things quickly and brings ownership to my work.
+I always like to write my code in modular ways,which helps other developers to understand it easily. Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. It allows me to stay ahead of the curve and deliver exceptional work. I am always passionate about my work so it helps me to learn things quickly and brings ownership to my work.
 
 .</p>
 
@@ -40,7 +40,7 @@ I always like to write my code in modular ways so that help other developers to 
        
 </p>
  
-## 📊 My Github Stats
+### 📊 My Github Stats
 
   <br/>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akib-Ali&show_icons=true&locale=en&theme=highcontrast" alt="Akib-Ali" /></p>
