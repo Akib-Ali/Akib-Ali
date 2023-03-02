@@ -12,7 +12,7 @@ I always like to write my code in modular ways,which helps other developers to u
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 <!-- - 🌱 I’m currently learning various new technologies. -->
  - 👨‍💻 All of my projects are available at **[My Portfolio](https://akib-portfolio.vercel.app/)**
-<!--  - 📫 How to reach me *shekhar.shashi735@gmail.com* -->
+<!--  - 📫 How to reach me *akib7599@gmail.com* -->
 - 💬 Ask me about anything, I am happy to help;
 
   ## 🚀 Languages and Tools:
